@@ -1,2 +1,6 @@
 * [Home](./)
-* [Sobre](./sobre.md)
+* [Sobre Mim](sobre-mim.md)
+* [Educação e Experiência](educacao-experiencia.md)
+* [Projetos](projetos.md)
+* [Habilidades](habilidades.md)
+* [Contato](contato.md)
