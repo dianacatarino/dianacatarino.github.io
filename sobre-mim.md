@@ -1,3 +1,3 @@
-## ℹ️ About me
+## ℹ️ Sobre mim
 
-I am a dedicated programming student, passionate about technology and software. This space is a window into my journey and passion for the world of programming.
+Sou uma estudante de programação dedicada, apaixonada por tecnologia e software. Este espaço é uma janela para minha jornada e paixão pelo mundo da programação.

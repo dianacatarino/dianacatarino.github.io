@@ -9,5 +9,6 @@ Welcome to my digital portfolio! This project utilizes [Docsify](https://docsify
 - [Projects](projects.md)
 - [Skills](skills.md)
 - [Contact](contact.md)
+- [Portuguese](#)
 
 Feel free to explore and learn more about my journey in the world of programming and technology!

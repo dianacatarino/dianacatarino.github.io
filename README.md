@@ -9,3 +9,6 @@ Bem-vindo ao meu portfólio digital! Este projeto utiliza [Docsify](https://docs
 - [Projetos](projetos.md)
 - [Habilidades](habilidades.md)
 - [Contato](contato.md)
+- [English](en/)
+
+Fique à vontade para explorar e aprender mais sobre minha jornada no mundo da programação e da tecnologia!
