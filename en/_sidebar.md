@@ -1,2 +1,6 @@
 * [Home](./)
-* [About](./about.md)
+- [About Me](about-me.md)
+- [Education and Experience](education-experience.md)
+- [Projects](projects.md)
+- [Skills](skills.md)
+- [Contact](contact.md)

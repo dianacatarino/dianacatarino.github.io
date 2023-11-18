@@ -1,17 +1,13 @@
-# FP1 - Markdown
+# Diana Catarino - Portfolio
 
-Diana Catarino  
-  
-`2220863`  
+Welcome to my digital portfolio! This project utilizes [Docsify](https://docsify.js.org/) to create a user-friendly and interactive documentation to showcase information about my education, experience, projects, and programming skills.
 
-## Known programming languages:
-* C, C++
-* Java, Javascript
-* HTML
-* CSS
+## Quick Navigation
 
----
+- [About Me](about-me.md)
+- [Education and Experience](education-experience.md)
+- [Projects](projects.md)
+- [Skills](skills.md)
+- [Contact](contact.md)
 
->Software Development Methodologies @2023
-
-![Imagem](https://www.ipleiria.pt/wp-content/themes/ipleiria/img/logo_ipl_header.png)
+Feel free to explore and learn more about my journey in the world of programming and technology!
