@@ -1,3 +1,3 @@
-## 🚀 Projetos
+## 🚀 Projects
 
-Destaco alguns projetos relevantes que demonstram minhas habilidades e paixão pela programação.
+I highlight some relevant projects that showcase my skills and passion for programming.

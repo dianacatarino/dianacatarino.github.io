@@ -7,7 +7,7 @@ Uma lista das linguagens, ferramentas, softwares que domino e outras línguas se
   - C, C++, C#
   - PHP
 
-- **Web Development:**
+- **Desenvolvimento Web:**
   - HTML, CSS, XML
 
 - **Outros:**
